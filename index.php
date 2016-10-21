@@ -118,7 +118,7 @@ foreach ($bing->getImages() as $image) {
                     <h4>Walchand Student Guide</h4>
                     An Android app aimed for helping the first year students of WCE, Sangli. Giving them access to various information about the college and Sangli</div>
                     <div class="project">
-                    <h4>WCE Bookshare</h4>
+                    <a href='http://wcebookshare.esy.es'><h4>WCE Bookshare</h4></a>
                     A Web based platform for the students of WCE to share their books with the other students, also giving them access to a wide range of books to read for free</div>
                     <div class="project">
                     <h4>A Game Of Shares</h4>
